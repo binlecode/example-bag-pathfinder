@@ -2,7 +2,7 @@
 BagPathFinder - airport bag routing shortest path finding utility
 
 Version: 1.0 (2015-04-18)
-Author: Bin Le (binle2002@hotmail.com)
+Author: Bin Le (bin.le.code@gmail.com)
 
 
 Coding problem: Airport Baggage Path Finding
@@ -110,7 +110,7 @@ System Work Flow Design
 - format path results and print them out
 
 Packaging
-- compile code in jar package with entry of bcus.bag.BagPathFinder.main() method
+- compile code in jar package with entry of bag.BagPathFinder.main() method
 - taking one argument to specify input file with required format
 - result is printed out to the terminal console with required format
 - usage example: java -jar bagpathfinder-1.0.jar 'sample_data.txt'
